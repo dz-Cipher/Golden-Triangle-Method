@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use the Golden Triangle Method in your research or project, please cite it as follows:"
+title: "Golden Triangle Method: A Privacy-First Blockchain Architecture"
+version: 1.0.0
+date-released: 2026-01-28
+authors:
+  - family-names: "magic"
+    alias: "magic"
+repository-code: "https://github.com/dz-Cipher/Golden-Triangle-Method"
+license: MIT
+keywords:
+  - blockchain
+  - privacy
+  - zero-knowledge-proofs
+  - zk-snarks
+  - groth16
+  - move-language
+  - rust
+  - sui-blockchain
+  - cryptography
+  - privacy-preserving
+abstract: "The Golden Triangle Method is an open-source framework for building privacy-preserving blockchain systems by systematically combining three foundational pillars: Mathematics (ZK-SNARKs/Groth16), Secure Logic (Move Language), and High-Performance Computation (Rust). This architecture addresses fundamental failures of previous privacy solutions by ensuring cryptographic soundness, asset security, and practical performance."
+preferred-citation:
+  type: software
+  title: "Golden Triangle Method: A Privacy-First Blockchain Architecture"
+  authors:
+    - family-names: "magic"
+      alias: "magic"
+  year: 2026
+  version: 1.0.0
+  repository-code: "https://github.com/dz-Cipher/Golden-Triangle-Method"
+  license: MIT

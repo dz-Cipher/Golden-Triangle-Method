@@ -2,7 +2,11 @@
 
 ## Privacy-First Blockchain Architecture
 
-The **Golden Triangle Method** is a revolutionary approach to building privacy-preserving blockchain systems by combining three foundational pillars: **Mathematics**, **Secure Programming**, and **High-Performance Computing**.
+**Designed & Maintained by magic**
+
+The **Golden Triangle Method** is a revolutionary open-source framework for building privacy-preserving blockchain systems by combining three foundational pillars: **Mathematics**, **Secure Programming**, and **High-Performance Computing**.
+
+📄 **[Read the Full Whitepaper](./WHITEPAPER.md)** for comprehensive technical details, security analysis, and performance benchmarks.
 
 ---
 
@@ -255,13 +259,13 @@ Together, they create an unbreakable foundation for privacy-preserving blockchai
 
 ## 📜 License
 
-[Your License Here - e.g., MIT, Apache 2.0]
+MIT License - See [LICENSE](./LICENSE) for details
 
 ---
 
-## 👥 Authors
+## 👥 Author
 
-**dz-Cipher** - *Creator of the Golden Triangle Method*
+**magic** - *Creator & Maintainer of the Golden Triangle Method*
 
 ---
 
