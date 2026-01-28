@@ -178,8 +178,8 @@ Track project health:
 
 **GitHub**: https://github.com/dz-Cipher/Golden-Triangle-Method  
 **Author**: magic  
-**Email**: [Your email if you want to include]  
-**Twitter**: [@YourHandle]  
+**Email**: [mhdmgc@proton.me]  
+**Twitter**: [@drmidnightmagic]  
 **Discord**: [Community link]
 
 ---
