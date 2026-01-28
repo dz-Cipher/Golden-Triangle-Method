@@ -1,3 +1,5 @@
+![Golden Triangle Method Banner](./assets/banner.png)
+
 # The Golden Triangle Method
 
 ## Privacy-First Blockchain Architecture
